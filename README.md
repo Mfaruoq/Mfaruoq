@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Muhammad Farooq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-p align="right"> <img src="https://komarev.com/ghpvc/?username=mfaruoq&label=Profile%20views&color=0e75b6&style=flat" alt="mfaruoq" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mfaruoq&label=Profile%20views&color=0e75b6&style=flat" alt="mfaruoq" /> </p>
 
 - 🔭 I’m currently working on **Genrative AI**
 
